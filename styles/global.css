@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: #141414;
+    font-family: Inter, sans-serif;
+}
+
+.container {
+    width: 70vw;
+    margin: 5rem 12vw;
+    display: flex;
+    flex-direction: column;
+}
