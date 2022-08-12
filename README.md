@@ -1,4 +1,4 @@
-<h1>GitHub Finder</h1>
+<h1>GitHub Finder 🔍</h1>
 
 <p>It's not hard to find github users anymore.</p> Demo
 
