@@ -4,8 +4,7 @@
 
 <img src="./store/web.png">
 
-<h2>Todo List</h2>
-
+<h2>Todo List 📝</h2>
 <ul>
   <li>GitHub User APİ</li>
   <li>Users Card / Repo Card </li>
