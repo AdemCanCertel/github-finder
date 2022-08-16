@@ -2,7 +2,7 @@
 
 <p>It's not hard to find github users anymore.</p> 
 
-Demo
+Demo screen
 <img src="./store/web.png">
 
 <h2>Todo List 📝</h2>
